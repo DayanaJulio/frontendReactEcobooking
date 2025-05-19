@@ -7,7 +7,24 @@ FrontendReactEcobooking es una aplicación web desarrollada en React y TypeScrip
 ---
 
 ## 🚀 Tecnologías utilizadas
-@@ -28,12 +30,27 @@
+
+- ⚛️ React
+- 💎 TypeScript
+- ⚡ Vite
+- 🎨 HTML5, CSS3
+- 📦 npm
+- 🧪 (Opcional) Vitest / Testing Library
+
+
+## 📂 Estructura del proyecto
+frontendReactEcobooking/
+├── src/
+│ ├── components/
+│ ├── App.tsx
+│ └── main.tsx
+├── public/
+│ └── index.html
+├── package.json
 ├── tsconfig.json
 └── vite.config.ts
 
@@ -31,6 +48,6 @@ FrontendReactEcobooking es una aplicación web desarrollada en React y TypeScrip
 Dayana Julio Rodríguez
 Estudiante de Ingeniería de Software
 📫 dayanajulio30@gmail.com
-🔗 LinkedIn 
+🔗 LinkedIn https://www.linkedin.com/in/dayana-julio-rodr%C3%ADguez-34566325a/
 💻 GitHub 
 
