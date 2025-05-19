@@ -1,0 +1,62 @@
+/* AlojamientosApp.css */
+
+.alojamientos-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #008000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 128, 0, 0.3);
+  }
+  
+  .alojamientos-header {
+    background-color: #008000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .alojamientos-main {
+    padding: 20px;
+  }
+  
+  //.form-container {
+    /* Estilos para el formulario */
+  //}
+  
+  .input-field {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .search-button {
+    background-color: #008000;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #006400;
+  }
+  
+  //.results-container {
+    /* Estilos para los resultados */
+  //}
+  
+  .results-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .results-list li {
+    margin-bottom: 10px;
+  }
+  
