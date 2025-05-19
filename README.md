@@ -49,5 +49,5 @@ Dayana Julio Rodríguez
 Estudiante de Ingeniería de Software
 📫 dayanajulio30@gmail.com
 🔗 LinkedIn https://www.linkedin.com/in/dayana-julio-rodr%C3%ADguez-34566325a/
-💻 GitHub 
+💻 GitHub  https://github.com/DayanaJulio
 
